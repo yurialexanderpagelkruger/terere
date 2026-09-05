@@ -7,9 +7,11 @@ Con un solo clic, la aplicación se encarga de revitalizar el sistema operativo 
 ## 📸 Capturas de pantalla
 
 ![Tereré - Inicio](screenshot.png)
+
 *Pantalla principal con efecto de partículas y detección de tema del sistema.*
 
 ![Tereré - Proceso](screenshot2.png)
+
 *Vista de carga y progreso durante el mantenimiento en segundo plano.*
 
 ## ✨ Características Principales
