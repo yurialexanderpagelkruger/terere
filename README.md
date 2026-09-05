@@ -1,4 +1,4 @@
-# 🧉 tereré
+# tereré
 
 **tereré** es una herramienta de limpieza y optimización para Windows escrita en C++. A diferencia de los optimizadores tradicionales que están sobrecargados de menús complejos, *tereré* fusiona el mantenimiento profundo del sistema con una interfaz gráfica (GUI) altamente estética, fluida y minimalista.
 
