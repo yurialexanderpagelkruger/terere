@@ -1,8 +1,16 @@
-# tereré
+# 🧉 tereré
 
 **tereré** es una herramienta de limpieza y optimización para Windows escrita en C++. A diferencia de los optimizadores tradicionales que están sobrecargados de menús complejos, *tereré* fusiona el mantenimiento profundo del sistema con una interfaz gráfica (GUI) altamente estética, fluida y minimalista.
 
 Con un solo clic, la aplicación se encarga de revitalizar el sistema operativo en segundo plano, mientras el usuario disfruta de una experiencia visual relajante.
+
+## 📸 Capturas de pantalla
+
+![Tereré - Inicio](screenshot.png)
+*Pantalla principal con efecto de partículas y detección de tema del sistema.*
+
+![Tereré - Proceso](screenshot2.png)
+*Vista de carga y progreso durante el mantenimiento en segundo plano.*
 
 ## ✨ Características Principales
 
@@ -28,8 +36,8 @@ Durante este proceso, la interfaz muestra un carrusel de texto informando al usu
 
 - **Lenguaje:** C++14 / C++17
 - **Librería Gráfica:** [Raylib](https://www.raylib.com/) (Procesamiento por hardware y renderizado de la UI).
-- **Sistema:** Windows API (`<windows.h>`, `<dwmapi.h>`) y llamadas al registro del sistema.
-- **Entorno:** Visual Studio.
+- **Sistema:** Windows API y llamadas al registro del sistema.
+- **Entorno:** Visual Studio 2026.
 
 ## 🚀 Instalación y Uso
 
@@ -41,4 +49,4 @@ Durante este proceso, la interfaz muestra un carrusel de texto informando al usu
 ## 👨‍💻 Autor
 
 Creado por **Yuri Alexander Pagel Krüger** 
-© 2026. Todos los derechos reservados.
+© 2026 Yuri Alexander Pagel Krüger. Todos los derechos reservados.
