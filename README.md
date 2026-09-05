@@ -43,10 +43,10 @@ Durante este proceso, la interfaz muestra un carrusel de texto informando al usu
 
 ## 🚀 Instalación y Uso
 
-1. Descarga el ejecutable desde la sección de **Releases** (o compila el código fuente usando Visual Studio en modo *Release*).
-2. Haz doble clic en `Limpia.exe`. 
+1. Descarga el instalador desde la sección de **Releases**.
+2. Haz doble clic en `terere-v1.0.0-Setup.exe` e instalo.
 3. *Nota:* La aplicación solicitará automáticamente permisos de **Administrador (UAC)** al abrirse, ya que los comandos de red y de escaneo del sistema (SFC) lo requieren obligatoriamente para funcionar.
-4. Presiona **Iniciar** y deja que el programa haga el resto.
+4. Una vez instalado abre el programa, presiona **Iniciar** y deja que el programa haga el resto.
 
 ## 👨‍💻 Autor
 
