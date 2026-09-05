@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Limpia/Limpia.vcxproj" Id="9c125e6c-fc76-48ec-9f8c-98c78ddc0bb9" />
+</Solution>
