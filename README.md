@@ -51,4 +51,3 @@ Durante este proceso, la interfaz muestra un carrusel de texto informando al usu
 ## 👨‍💻 Autor
 
 Creado por **Yuri Alexander Pagel Krüger** 
-© 2026 Yuri Alexander Pagel Krüger. Todos los derechos reservados.
