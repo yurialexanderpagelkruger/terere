@@ -50,4 +50,4 @@ Durante este proceso, la interfaz muestra un carrusel de texto informando al usu
 
 ## 👨‍💻 Autor
 
-Creado por **Yuri Alexander Pagel Krüger** 
+Creado por **Yuri Alexander Pagel Krüger**
